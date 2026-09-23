@@ -4,7 +4,7 @@ Sales analytics for a SaaS company that sells two ways: a self-serve product tha
 
 The question a sales leader asks every week: **are we going to hit the number this quarter, and can we trust what the reps are telling us?**
 
-![Forecast error by week of quarter](docs/forecast_error_by_week.png)
+![Dashboard](docs/dashboard.png)
 
 ## Key findings
 
