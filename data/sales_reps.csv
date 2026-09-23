@@ -1,0 +1,37 @@
+rep_id,rep_name,role,segment,region,manager_id,hire_date,termination_date,is_active
+005M0000,Kenji Wagner,Sales Manager,All,EMEA,,2023-06-01,,1
+005M0001,Mia Weber,Sales Manager,All,North America,,2023-06-01,,1
+005M0002,Emma Fischer,Sales Manager,All,APAC & LATAM,,2023-06-01,,1
+005A0000,Lea Nowak,Account Executive,Enterprise,EMEA - DACH,005M0000,2023-09-01,,1
+005A0001,Samuel Martin,Account Executive,Mid-Market,EMEA - DACH,005M0000,2023-09-01,2024-11-19,0
+005A0002,Priya Braun,Account Executive,Commercial,EMEA - DACH,005M0000,2023-09-01,,1
+005A0003,Liam Nowak,Account Executive,Enterprise,EMEA - UK&I,005M0000,2023-09-01,,1
+005A0004,Ethan Jansen,Account Executive,Mid-Market,EMEA - UK&I,005M0000,2023-09-01,,1
+005A0005,Emma Nilsson,Account Executive,Commercial,EMEA - UK&I,005M0000,2023-09-01,,1
+005A0006,Olivia Klein,Account Executive,Mid-Market,EMEA - North,005M0000,2023-09-01,,1
+005A0007,Ines Collins,Account Executive,Enterprise,EMEA - North,005M0000,2023-09-01,,1
+005A0008,Samuel Neumann,Account Executive,Commercial,EMEA - North,005M0000,2025-05-28,,1
+005A0009,Kenji Garcia,Account Executive,Mid-Market,EMEA - South,005M0000,2025-04-29,,1
+005A0010,Julia Jansen,Account Executive,Commercial,EMEA - South,005M0000,2025-10-31,,1
+005A0011,Laura Garcia,Account Executive,Enterprise,EMEA - South,005M0000,2024-04-25,,1
+005A0012,Tom Silva,Account Executive,Enterprise,North America,005M0001,2024-06-04,,1
+005A0013,David Wagner,Account Executive,Mid-Market,North America,005M0001,2025-03-21,2026-01-15,0
+005A0014,Chloe Murphy,Account Executive,Commercial,North America,005M0001,2025-08-08,,1
+005A0015,Maya Murphy,Account Executive,Mid-Market,APAC,005M0002,2025-04-09,,1
+005A0016,Isabel Jansen,Account Executive,Mid-Market,LATAM,005M0002,2025-10-30,,1
+005A0017,Ethan Walker,Account Executive,Mid-Market,EMEA - DACH,005M0000,2025-11-26,,1
+005A0018,Elias Richter,Account Executive,Mid-Market,North America,005M0001,2026-02-12,,1
+005A0019,Clara Richter,Account Executive,Enterprise,North America,005M0001,2024-12-08,2026-03-05,0
+005A0020,Priya Neumann,Account Executive,Mid-Market,EMEA - UK&I,005M0000,2025-08-08,,1
+005A0021,Olivia Keller,Account Executive,Commercial,North America,005M0001,2025-03-07,2026-01-01,0
+005A0022,Marco Martin,Account Executive,Enterprise,EMEA - DACH,005M0000,2026-04-25,,1
+005A0023,Samuel Keller,Account Executive,Mid-Market,North America,005M0001,2026-01-28,,1
+005A0024,Jonas Koch,Account Executive,Commercial,EMEA - DACH,005M0000,2024-07-27,,1
+005S0000,Emma Becker,Sales Development Rep,All,EMEA - DACH,005M0000,2024-11-22,,1
+005S0001,Ethan Braun,Sales Development Rep,All,EMEA - UK&I,005M0000,2024-02-14,,1
+005S0002,David Koch,Sales Development Rep,All,EMEA - North,005M0000,2024-09-24,,1
+005S0003,Jonas Wolf,Sales Development Rep,All,North America,005M0001,2024-12-19,,1
+005S0004,Anna Fischer,Sales Development Rep,All,North America,005M0001,2024-08-23,,1
+005S0005,Lea Neumann,Sales Development Rep,All,EMEA - South,005M0000,2024-03-09,,1
+005S0006,Emma Nowak,Sales Development Rep,All,APAC,005M0002,2024-09-19,,1
+005X0001,RevOps Admin,Sales Operations,All,Global,,2024-11-01,,1
